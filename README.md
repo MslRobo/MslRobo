@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Martin and I study computer engineering on a bachelor level at the <a href="https://www.uis.no/en">University of Stavanger<img src="https://www.uis.no//themes/custom/uis/favicon.ico" alt="UiS" height="20" width="20"/></a> in Norway.
+I'm Martin and I study computer engineering on a bachelor level at the <a href="https://www.uis.no/en">University of Stavanger</a> in Norway.
 <!--I also work part time as a Software trainee at Unisea AS-->
 
 I was awarded the <strong>Coder of the Year</strong> award by the 
