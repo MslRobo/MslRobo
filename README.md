@@ -1,11 +1,13 @@
 ### Hi there 👋
-I'm Martin and I study computer engineering on a bachelor level at the <a href="https://www.uis.no/en">University of Stavanger</a> in Norway.
+I'm Martin, and I study computer engineering on a bachelor level at the <a href="https://www.uis.no/en">University of Stavanger</a> in Norway.
 
 <h3 align="left">Experience</h3>
 I worked for a year at the student organization <a href="https://ionracing.no/">ION Racing</a> developing software for the team and the formula student car, 
 with my main focus on front-end developing for the website
 <p></p>
-I'm also part time employed as a Software Developer trainee at <a href="https://unisea.no/">Unisea AS</a>
+I'm also part-time employed as a Software Developer trainee at <a href="https://unisea.no/">Unisea AS</a> where I mainly work with front-end development using the 
+angular framework, and sass in place of CSS. My work also includes some back-end in java with replacing deprecated code and writing essential back-end for some of my 
+front-end implementations
 
 <h3 align="left">Awards</h3>
 I was awarded the <strong>Coder of the Year</strong> award by the 
