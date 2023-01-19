@@ -1,7 +1,13 @@
 ### Hi there 👋
 I'm Martin and I study computer engineering on a bachelor level at the <a href="https://www.uis.no/en">University of Stavanger</a> in Norway.
-<!--I also work part time as a Software trainee at Unisea AS-->
 
+<h3 align="left">Experience</h3>
+I worked for a year at the student organization <a href="https://ionracing.no/">ION Racing</a> developing software for the team and the formula student car, 
+with main focus on front-end developing for the website
+<p></p>
+I also work part time as a Software Developer trainee at Unisea AS
+
+<h3 align="left">Awards</h3>
 I was awarded the <strong>Coder of the Year</strong> award by the 
 line association <a href="https://www.led-uis.no/">LED</a> for scoring the highest on their <a href="https://adventofcode.com/">AoC<a> leaderboard for 2022
 
