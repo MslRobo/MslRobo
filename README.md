@@ -5,7 +5,7 @@ I'm Martin and I study computer engineering on a bachelor level at the <a href="
 I worked for a year at the student organization <a href="https://ionracing.no/">ION Racing</a> developing software for the team and the formula student car, 
 with main focus on front-end developing for the website
 <p></p>
-I also work part time as a Software Developer trainee at Unisea AS
+I'm also part time employed as a Software Developer trainee at <a href="https://unisea.no/">Unisea AS</a>
 
 <h3 align="left">Awards</h3>
 I was awarded the <strong>Coder of the Year</strong> award by the 
