@@ -2,7 +2,7 @@
 I'm Martin and I study computer engineering on a bachelor level at the <a href="https://www.uis.no/en">University of Stavanger</a> in Norway.
 <!--I also work part time as a Software trainee at Unisea AS-->
 
-I was awarded the <strong>Coder of the year</strong> award by the 
+I was awarded the <strong>Coder of the Year</strong> award by the 
 student association <a href="https://www.led-uis.no/">LED</a> for scoring the highest on their <a href="https://adventofcode.com/">AoC<a> leaderboard for 2022
 
 <h3 align="left">Languages and Tools:</h3>
