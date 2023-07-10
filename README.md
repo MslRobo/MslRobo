@@ -6,9 +6,7 @@ I worked for a year at the student organization <a href="https://ionracing.no/">
 with my main focus on front-end developing for the website
 <p></p>
 I'm also part-time employed as a Software Developer trainee at <a href="https://unisea.no/">Unisea AS</a>.<br/>
-My work here is mainly with front-end development using the 
-angular framework, and sass in place of CSS. It also includes some back-end in java with replacing deprecated code and writing essential back-end for some of my 
-front-end implementations.
+My work here is full-stack development using the angular framework for front-end and java for back-end implementations.
 
 <h3 align="left">Awards</h3>
 I was awarded the <strong>Coder of the Year</strong> award by the 
