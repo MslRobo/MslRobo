@@ -2,8 +2,11 @@
 I'm Martin, and I study computer engineering on a bachelor level at the  <a href="https://www.uis.no/en">(<img src="assets/Uis.png" alt="UiS" height="15" />)University of Stavanger</a> in Norway.
 
 <h3 align="left">Experience</h3>
-I worked for a year at the student organization <a href="https://ionracing.no/"> <img src="assets/Ion.png" alt="Ion" height="15" /> ION Racing</a> developing software for the team and the formula student car, 
-with my main focus on front-end developing for the website
+I worked at the student organization <a href="https://ionracing.no/"> <img src="assets/Ion.png" alt="Ion" height="15" /> ION Racing</a> during my first year at UiS with developing software for the team and the formula student car.
+with my main focus on front-end developing for the website.
+
+I returned to <a href="https://ionracing.no/"> <img src="assets/Ion.png" alt="Ion" height="15" /> ION Racing</a> during my third year to work primarly with developing an AI driverless solution for the formula student car to compete in the formula student category AI Driverless. On the side I also help out with developing
+the website.
 <p></p>
 I'm also part-time employed as a Software Developer trainee at <a href="https://unisea.no/">(<img src="assets/Unisea.png" alt="Unisea" height="15" />) Unisea AS</a>. <br/>
 My work here is full-stack development using the angular framework for front-end and java for back-end implementations.
