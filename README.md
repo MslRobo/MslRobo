@@ -12,7 +12,7 @@ My work here is full-stack development using the angular framework for front-end
 
 <h3 align="left">Awards</h3>
 I was awarded the <strong>Coder of the Year</strong> award by the 
-line association <a href="https://www.led-uis.no/">(<img src="assets/Led.png" alt="Led" height="15" />) LED</a> for scoring the highest on their <a href="https://adventofcode.com/"> <img src="assets/Aoc.png" alt="Aoc" height="15" /> AoC<a> leaderboard for 2022
+line association <a href="https://www.led-uis.no/">(<img src="assets/Led.png" alt="Led" height="15" />) LED</a> for scoring the highest on their <a href="https://adventofcode.com/"> <img src="assets/Aoc.png" alt="Aoc" height="15" /> AoC</a> leaderboard for 2022 </br>
 I was awarded the same award for the following <a href="https://adventofcode.com/"> <img src="assets/Aoc.png" alt="Aoc" height="15" /> AoC<a> leaderboard for 2023
 
 <h3 align="left">Languages and Tools:</h3>
